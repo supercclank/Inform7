@@ -1,0 +1,1240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-0x02D28900" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+  <generator>Inform 7 for Windows</generator>
+  <activeNode nodeId="node-0x0E2FC0B0"/>
+  <item nodeId="node-0x02D28900">
+    <command xml:space="preserve">- start -</command>
+    <result xml:space="preserve">Welcome to the interactive adventure of Dracula. The Count has recently begun his conquest of England in London.  It is up to you, as Johnathan Harker, to find a way to banish the Count and force him to retreat to Transylvania. It is imperative that you work as quick as possible.  "Denn die Todten reiten Schnell."~For the dead travel fast &#x000A;&#x000A; At any point in the game, typing "help" will bring up a list of commands at your disposal&#x000A;English Project&#x000A;An Interactive Fiction by Cory Brzyck&#x000A;Release 1 / Serial number 131014 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD&#x000A;&#x000A;Asylum Atrium&#x000A;You notice Mina working hard a typewriter and Seward squinting at your journal. Van Helsing sits in the back, staring at the ceiling. To the south you see a heavy door leading out of the Asylum. You can hear rustling coming from the room to west&#x000A;&#x000A;You can see Asylum Door, Mina and Seward here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve">English Project&#x000A;An Interactive Fiction by Cory Brzyck&#x000A;Release 1 / Serial number 131005 / Inform 7 build 6G60 (I6/v6.32 lib 6/12N) SD&#x000A;&#x000A;Asylum Atrium&#x000A;You notice Mina working hard a typewriter and Seward squinting at your journal. Van Helsing sits in the back, staring at the ceiling&#x000A;&#x000A;&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02D28508"/>
+      <child nodeId="node-0x02D383D0"/>
+      <child nodeId="node-0x02D38A60"/>
+      <child nodeId="node-0x0D83C250"/>
+      <child nodeId="node-0x0D83C640"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D28508">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening the Asylum Door)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D36FE0"/>
+      <child nodeId="node-0x02D37CB8"/>
+      <child nodeId="node-0x02D389F0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D36FE0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D37050"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D37050">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Study&#x000A;This room is full fo books and shelves. You notice a shipping log sitting on the desk&#x000A;&#x000A;You can see Seward's Desk (on which is a shipping log) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D37BD8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D37BD8">
+    <command xml:space="preserve">read shipping log</command>
+    <result xml:space="preserve">You pick up the shipping log and begin to read.&#x000A;You take note  of fifty crates that have been shipped to England from Translyvania. It appears that they were all delivered to the chapel Carafax next door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D37C48"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D37C48">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Van Helsing steps forward and begins to address the group: "There are such beings as vampires, some of us have evidence that they exist. Even had we not the proof of our own unhappy experience, the teachings and the records of the past give proof enough for sane peoples. I admit that at the first I was sceptic. Were it not that through long years I have trained myself to keep an open mind, I could not have believed until such time as that fact thunder on my ear.`See! See! I prove, I prove." Alas! Had I known at first what now I know, nay, had I even guess at him, one so precious life had been spared to many of us who did love her. But that is gone, and we must so work, that other poor souls perish not, whilst we can save. The nosferatu do not die like the bee when he sting once. He is only stronger, and being stronger, have yet more power to work evil. This vampire which is amongst us is of himself so strong in person as twenty men, he is of cunning more than mortal, for his cunning be the growth of ages, he have still the aids of necromancy, which is, as his etymology imply, the divination by the dead, and all the dead that he can come nigh to are for him at command, he is brute, and more than brute, he is devil in callous, and the heart of him is not, he can, within his range, direct the elements, the storm, the fog, the thunder, he can command all the meaner things, the rat, and the owl, and the bat, the moth, and the fox, and the wolf, he can grow and become small, and he can at times vanish and come unknown. How then are we to begin our strike to destroy him? How shall we find his where, and having found it, how can we destroy? My friends, this is much, it is a terrible task that we undertake, and there may be consequence to make the brave shudder. For if we fail in this our fight he must surely win, and then where end we? Life is nothings, I heed him not. But to fail here, is not mere life or death. It is that we become as him, that we henceforward become foul things of the night like him, without heart or conscience, preying on the bodies and the souls of those we love best. To us forever are the gates of heaven shut, for who shall open them to us again? We go on for all time abhorred by all, a blot on the face of God's sunshine, an arrow in the side of Him who died for man. But we are face to face with duty, and in such case must we shrink? For me, I say no, but then I am old, and life, with his sunshine, his fair places, his song of birds, his music and his love, lie far behind. You others are young. Some have seen sorrow, but there are fair days yet in store. What say you?"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x02D37CB8">
+    <command xml:space="preserve">read shipping log</command>
+    <result xml:space="preserve">You pick up the shipping log and begin to read.&#x000A;You take note  of fifty crates that have been shipped to England from Translyvania. It appears that they were all delivered to the chapel Carafax next door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D3A7D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D3A7D8">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Van Helsing steps forward and begins to address the group: "It  is our duty to drive this vampire back to his home. I know it will not be easy, he can take the form of any animal and is stronger than all of us put together. He is also smart. No matter the cost, we must  band together to create a brighter tomorrow." &#x000A;&#x000A; Seward walks over to the door to the South and unlocks it&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x02D389F0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Study&#x000A;This room is full of books and shelves. You notice a shipping log sitting on the desk&#x000A;&#x000A;You can see Seward's Desk (on which is a shipping log) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D38BB0"/>
+      <child nodeId="node-0x0DF64C18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D38BB0">
+    <command xml:space="preserve">destroy shipping log iwth holy wafer</command>
+    <result xml:space="preserve">I only understood you as far as wanting to destroy the shipping log.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D38B40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D38B40">
+    <command xml:space="preserve">destroy shipping log with holy wafer</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D38910"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D38910">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D38980"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D38980">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D38AD0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D38AD0">
+    <command xml:space="preserve">read shipping log</command>
+    <result xml:space="preserve">You pick up the shipping log and begin to read.&#x000A;You take note  of fifty crates that have been shipped to England from Translyvania. It appears that they were all delivered to the chapel Carafax next door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D387C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D387C0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Van Helsing steps forward and begins to address the group: "It  is our duty to drive this vampire back to his home. I know it will not be easy, he can take the form of any animal and is stronger than all of us put together. He is also smart. No matter the cost, we must  band together to create a brighter tomorrow." &#x000A;&#x000A; Seward walks over to the door to the South and unlocks it&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E39F668"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E39F668">
+    <command xml:space="preserve">destory seward with holy wafer</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E39F518"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E39F518">
+    <command xml:space="preserve">destory seward with holy wafer</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0D83C720"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0D83C720">
+    <command xml:space="preserve">destroy seward with holy wafer</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0D83C3A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0D83C3A0">
+    <command xml:space="preserve">x seward</command>
+    <result xml:space="preserve">You see nothing special about Seward.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0DF64C18">
+    <command xml:space="preserve">destory shipping log with holy wafer</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0DF64D68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0DF64D68">
+    <command xml:space="preserve">destroy shipping log wit holy wafer</command>
+    <result xml:space="preserve">I only understood you as far as wanting to destroy the shipping log.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x02D383D0">
+    <command xml:space="preserve">r</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D38280"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D38280">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Study&#x000A;This room is full fo books and shelves. You notice a shipping log sitting on the desk&#x000A;&#x000A;You can see Seward's Desk (on which is a shipping log) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D384B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D384B0">
+    <command xml:space="preserve">read shipping log</command>
+    <result xml:space="preserve">You pick up the shipping log and begin to read.&#x000A;You take note  of fifty crates that have been shipped to England from Translyvania. It appears that they were all delivered to the chapel Carafax next door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D38520"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D38520">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Van Helsing steps forward and begins to address the group: "It  is our duty to drive this vampire back to his home. I know it will not be easy, he can take the form of any animal and is stronger than all of us put together. He is also smart. No matter the cost, we must  band together to create a brighter tomorrow."&#x000A;\nSeward walks over to the door to the South and unlocks it &#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x02D38A60">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">Use N to move North, S to move South, E to move East, W to move West. &#x000A; Use "read" &lt;object&gt; to attempt to read something.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0D83C410"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0D83C410">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Study&#x000A;This room is full fo books and shelves. You notice a shipping log sitting on the desk&#x000A;&#x000A;You can see Seward's Desk (on which is a shipping log) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0D83C2C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0D83C2C0">
+    <command xml:space="preserve">read shipping log</command>
+    <result xml:space="preserve">You pick up the shipping log and begin to read.&#x000A;You take note  of fifty crates that have been shipped to England from Translyvania. It appears that they were all delivered to the chapel Carafax next door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0D83C170"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0D83C170">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Van Helsing steps forward and begins to address the group: "It  is our duty to drive this vampire back to his home. I know it will not be easy, he can take the form of any animal and is stronger than all of us put together. He is also smart. No matter the cost, we must  band together to create a brighter tomorrow." &#x000A;&#x000A; Seward walks over to the door to the South and unlocks it&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0D83C480"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0D83C480">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0D83C250">
+    <command xml:space="preserve">he;[</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0D83C100"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0D83C100">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">adhsfkjahdsfjadklsf.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0D83C640">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Study&#x000A;This room is full of books and shelves. You notice a shipping log sitting on the desk&#x000A;&#x000A;You can see Seward's Desk (on which is a shipping log) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0D83C6B0"/>
+      <child nodeId="node-0x0E993700"/>
+      <child nodeId="node-0x0E01ACA8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0D83C6B0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0D83C800"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0D83C800">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0E993700">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the Asylum Door)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E993770"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E993770">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the Asylum Door)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E9937E0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E9937E0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the Asylum Door)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E993850"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E993850">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">(first opening the Asylum Door)&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0E01ACA8">
+    <command xml:space="preserve">read shipping log</command>
+    <result xml:space="preserve">You pick up the shipping log and begin to read.&#x000A;You take note  of fifty crates that have been shipped to England from Translyvania. It appears that they were all delivered to the chapel Carafax next door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0E01AA08"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E01AA08">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Van Helsing steps forward and begins to address the group: "It  is our duty to drive this vampire back to his home. I know it will not be easy, he can take the form of any animal and is stronger than all of us put together. He is also smart. No matter the cost, we must  band together to create a brighter tomorrow." &#x000A;&#x000A; Seward walks over to the door to the East and unlocks it &#x000A;&#x000A; Morris, Holmwood, and Van Helsing exit the Asylum to head for Carfax&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0E01ADF8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E01ADF8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">(first opening Asylum Door)&#x000A;&#x000A;Essex Purfleet&#x000A;A sprawling road that leads north to the Carfax. Dracula's choice of location is odd considering its proximity to the Asylum. Hopefully we can be one step ahead of him for once.&#x000A;&#x000A;You can see Asylum Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0E01AAE8"/>
+      <child nodeId="node-0x0E7E37C8"/>
+      <child nodeId="node-0x0E111350"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E01AAE8">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Essex Purfleet&#x000A;You can see an Asylum Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E01AD18"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E01AD18">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Carfax&#x000A;You count 29 boxes in the room&#x000A;&#x000A;You can see 29 box of earth here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E01AFB8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E01AFB8">
+    <command xml:space="preserve">destory 29 box of earth with holy wafer</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E01B028"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E01B028">
+    <command xml:space="preserve">destroy 29 box of earth with holy wafer</command>
+    <result xml:space="preserve">I only understood you as far as wanting to destroy 29 box of earth.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E01B098"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E01B098">
+    <command xml:space="preserve">destroy box of earth with holy wafer</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E01B108"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E01B108">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Carfax&#x000A;You count 29 boxes in the room&#x000A;&#x000A;You can see 29 box of earth here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0DF64E48"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0DF64E48">
+    <command xml:space="preserve">destroy box of earth with holy wafer</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0DF64EB8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0DF64EB8">
+    <command xml:space="preserve">destroy box of earth with holy wafer</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0DF64F28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0DF64F28">
+    <command xml:space="preserve">destroy box of earth with holy wafer</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E7E3608"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E7E3608">
+    <command xml:space="preserve">destroy box of earth with holy wafer</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E7E3678"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E7E3678">
+    <command xml:space="preserve">destroy box of earth with holy wafer</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E7E36E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E7E36E8">
+    <command xml:space="preserve">destroy box of earth with holy wafer</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E7E3758"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E7E3758">
+    <command xml:space="preserve">destroy box of earth with holy wafer</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E7E38A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E7E38A8">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Carfax&#x000A;You count 29 boxes in the room&#x000A;&#x000A;You can see 29 box of earth here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0E7E37C8">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You see a lot of boxes in the room, you're unsure of how many there are. There is an overwhelming stench in the chapel that would normally have lead you to leave. As you and your allies begin to take a step toward them the room begins to fill with rats! &#x000A;&#x000A; You take a quick survey of what everyone has with them. &#x000A;     Van Helsing has a cross and holy wafers with him. &#x000A;     Seward only has keys with him. &#x000A;     Holmwood has a silver whistle with him. &#x000A;     Morris has his pistol with him. &#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0E7E3838"/>
+      <child nodeId="node-0x0E993B60"/>
+      <child nodeId="node-0x0DF64BA8"/>
+      <child nodeId="node-0x0E2FBEF0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E7E3838">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Carfax&#x000A;You can see a box of earth here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E7E39F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E7E39F8">
+    <command xml:space="preserve">destory box of earth with holy wafer</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E7E3A68"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E7E3A68">
+    <command xml:space="preserve">destroy box of earth with holy wafer</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E7E3AD8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E7E3AD8">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Carfax&#x000A;You can see a box of earth here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E7E3BB8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E7E3BB8">
+    <command xml:space="preserve">take box of earth</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E7E3C28"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E7E3C28">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Carfax&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0E993B60">
+    <command xml:space="preserve">take box of earth</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E993BD0"/>
+      <child nodeId="node-0x0E9938C0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E993BD0">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Carfax&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E9939A0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E9939A0">
+    <command xml:space="preserve">place box of earth</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E993AF0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E993AF0">
+    <command xml:space="preserve">drop box of earth</command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E993A80"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E993A80">
+    <command xml:space="preserve">look</command>
+    <result xml:space="preserve">Carfax&#x000A;You can see 29 Box of earth here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0E9938C0">
+    <command xml:space="preserve">take baoxes of earth</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0DF64BA8">
+    <command xml:space="preserve">ask morris for pistol</command>
+    <result xml:space="preserve">You must supply a noun.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve">&gt;</commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0F12F568"/>
+      <child nodeId="node-0x02D38590"/>
+      <child nodeId="node-0x0F15A5F8"/>
+      <child nodeId="node-0x0EA19010"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F12F568">
+    <command xml:space="preserve">ask morris about pistol</command>
+    <result xml:space="preserve">I don't think using a pistol is a good idea here&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve">I don't think using a pistol is a good idea here&#x000A;&#x000A;&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+  </item>
+  <item nodeId="node-0x02D38590">
+    <command xml:space="preserve">take pistol</command>
+    <result xml:space="preserve">asfasf&#x000A;That seems to belong to Morris.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D38210"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D38210">
+    <command xml:space="preserve">ask morris about pistol</command>
+    <result xml:space="preserve">There is no reply.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0F15A5F8">
+    <command xml:space="preserve">ask morris about the pistol</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0F15A668"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F15A668">
+    <command xml:space="preserve">ask morris about pistol</command>
+    <result xml:space="preserve">I don't think using a pistol is a good idea here&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0EA19010">
+    <command xml:space="preserve">ask morris for the pistol</command>
+    <result xml:space="preserve">You must supply a noun.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0E2FBEF0">
+    <command xml:space="preserve">ask morris about pistol</command>
+    <result xml:space="preserve">Morris gives the pistol to you.&#x000A;&#x000A;I don't think using a pistol is a good idea here&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0E2FBB70"/>
+      <child nodeId="node-0x0F12F488"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E2FBB70">
+    <command xml:space="preserve">ask morris for pistol</command>
+    <result xml:space="preserve">I don't think using a pistol is a good idea here&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0F12F798"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F12F798">
+    <command xml:space="preserve">ask morris for the pistol</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve">You must supply a noun.&#x000A;&#x000A;&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02DAD158"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DAD158">
+    <command xml:space="preserve">ask morris for pistol</command>
+    <result xml:space="preserve">I don't think using a pistol is a good idea here&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0F15A748"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F15A748">
+    <command xml:space="preserve">x pistol</command>
+    <result xml:space="preserve">You see nothing special about the pistol.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0F15A6D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F15A6D8">
+    <command xml:space="preserve">x pistol</command>
+    <result xml:space="preserve">You see nothing special about the pistol.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0F15A588"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F15A588">
+    <command xml:space="preserve"> take pistol from morris</command>
+    <result xml:space="preserve">That seems to belong to Morris.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0F15A198"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F15A198">
+    <command xml:space="preserve">drop pistol</command>
+    <result xml:space="preserve">You haven't got that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0F12F2C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F12F2C8">
+    <command xml:space="preserve">ask morris about pistol</command>
+    <result xml:space="preserve">I don't think using a pistol is a good idea here&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0F12F3A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F12F3A8">
+    <command xml:space="preserve">drop pistol</command>
+    <result xml:space="preserve">You haven't got that.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0F12F488">
+    <command xml:space="preserve">drop pistol</command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0F12F4F8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F12F4F8">
+    <command xml:space="preserve">ask morris for pistol</command>
+    <result xml:space="preserve">(Morris first taking the pistol)&#x000A;Morris gives the pistol to you.&#x000A;&#x000A;I don't think using a pistol is a good idea here&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0F12F5D8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F12F5D8">
+    <command xml:space="preserve">drop pistol</command>
+    <result xml:space="preserve">Dropped.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve">You haven't got that.&#x000A;&#x000A;&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0F12F878"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F12F878">
+    <command xml:space="preserve">take pistol</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x0EA18C90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0EA18C90">
+    <command xml:space="preserve">take pistol from morris</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">NO</temporary>
+    <children>
+      <child nodeId="node-0x02DAD1C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DAD1C8">
+    <command xml:space="preserve">shoot pistol</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DAD008"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DAD008">
+    <command xml:space="preserve">x pistol</command>
+    <result xml:space="preserve">You see nothing special about the pistol.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DAD0E8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DAD0E8">
+    <command xml:space="preserve">fire pistol</command>
+    <result xml:space="preserve">It probably isn't a good idea to fire that in here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0F12F808"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F12F808">
+    <command xml:space="preserve">take whistle from Holmwood</command>
+    <result xml:space="preserve">That seems to belong to Holmwood.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0F12F418"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0F12F418">
+    <command xml:space="preserve">ask holmwood for whistle</command>
+    <result xml:space="preserve">Holmwood gives the silver whistle to you.&#x000A;&#x000A;I'm not sure what good it will be, but I think I did see some dogs around the neighborhood&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DAD078"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DAD078">
+    <command xml:space="preserve">blow whistle</command>
+    <result xml:space="preserve">You hear low grumbles as a group of dogs run in and chase away the rats&#x000A;&#x000A;Van Helsing walks around the room and places a holy wafer in each box.  (There are only 21 boxes left to take care of).&#x000A;&#x000A; You best return to the asylum and see if Mina has found out anything new.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D38130"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D38130">
+    <command xml:space="preserve">nlow whistle</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D38830"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D38830">
+    <command xml:space="preserve">blow whistle</command>
+    <result xml:space="preserve">You hear low grumbles as a group of dogs run in and chase away the rats&#x000A;&#x000A;Van Helsing walks around the room and places a holy wafer in each box.  (There are only 21 boxes left to take care of).&#x000A;&#x000A; You best return to the asylum and see if Mina has found out anything new.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E39F3C8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E39F3C8">
+    <command xml:space="preserve">blow silver whistle</command>
+    <result xml:space="preserve">You hear low grumbles as a group of dogs run in and chase away the rats&#x000A;&#x000A;Van Helsing walks around the room and places a holy wafer in each box.  (There are only 21 boxes left to take care of).&#x000A;&#x000A; You best return to the asylum and see if Mina has found out anything new.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0DF652A8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0DF652A8">
+    <command xml:space="preserve">blow pistol</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0DF65158"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0DF65158">
+    <command xml:space="preserve">number left</command>
+    <result xml:space="preserve">I didn't understand that sentence.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0EA18EC0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0EA18EC0">
+    <command xml:space="preserve">number of boxes left</command>
+    <result xml:space="preserve">21 boxes left to destroy&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02D38C20"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02D38C20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Essex Purfleet&#x000A;A sprawling road that leads north to the Carfax. Dracula's choice of location is odd considering its proximity to the Asylum. Hopefully we can be one step ahead of him for once.&#x000A;&#x000A;You can see Asylum Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0EA18D70"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0EA18D70">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Mina runs over and tells you that she has found the locations of the remaining 21 boxes. 12 of them are located in the East End while the other 9 are at a house in Piccadilly. The group has decided to split up, you to go with Van Helsing to Piccadilly while Holmwood and Morris take care of the other boxes&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0EA18DE0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0EA18DE0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You can't go that way.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0EA18A60"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0EA18A60">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Asylum Atrium&#x000A;You notice Mina working hard a typewriter and Seward squinting at your journal. Van Helsing sits in the back, staring at the ceiling. To the south you see a heavy door leading out of the Asylum. You can hear rustling coming from the room to west&#x000A;&#x000A;You can see Asylum Door and Mina here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0EA18B40"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0EA18B40">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">You find that Renfield has had is neck snapped. Perhaps you aren't as far ahead of Dracula as you thought you were.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0EA18AD0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0EA18AD0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Mina runs over and tells you that she has found the locations of the remaining 21 boxes. 12 of them are located in the East End while the other 9 are at a house in Piccadilly. The group has decided to split up, you to go with Van Helsing to Piccadilly while Holmwood and Morris take care of the other boxes&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DACEB8"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DACEB8">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Essex Purfleet&#x000A;A sprawling road that leads north to the Carfax. Dracula's choice of location is odd considering its proximity to the Asylum. Hopefully we can be one step ahead of him for once.&#x000A;&#x000A;You can see Asylum Door here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x02DAD318"/>
+    </children>
+  </item>
+  <item nodeId="node-0x02DAD318">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0EA18F30"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0EA18F30">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">London Road&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0EA18BB0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0EA18BB0">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">Use N to move North, S to move South, E to move East, W to move West. &#x000A;Use "read" &lt;object&gt; to attempt to read something. &#x000A;Use "examine" or "x" to get a detailed description of a person or object.&#x000A;Use "shoot" &lt;object&gt; to attempt to fire something. &#x000A;Use "blow" &lt;object&gt; to attempt to blow air through it. &#x000A;Use "Number of boxes left" to find out the number of boxes left to destroy.&#x000A;Use "ask" &lt;person&gt; about/for &lt;object&gt; to try to receive an object from someone.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E2FBA90"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E2FBA90">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">Piccadilly&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+    <children>
+      <child nodeId="node-0x0E2FC0B0"/>
+    </children>
+  </item>
+  <item nodeId="node-0x0E2FC0B0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Dracula's House&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+  <item nodeId="node-0x0E111350">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="0">YES</temporary>
+  </item>
+</Skein>
